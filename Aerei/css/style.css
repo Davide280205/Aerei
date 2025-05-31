@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    border: 3px solid #01aaff;
+    padding: 2%;
+    border-radius: 20px;
+    margin-block: 30px;
+}
+
+.menu p {
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
